@@ -16,3 +16,15 @@ April 25, 2025
 April 26, 2025
 
 5. Component Categories
+   ![alt text](image-3.png)
+
+6. Prop Drilling - a several nested child components to get the data
+   ex. const [movies, setMovies] = useState(tempMovieData);
+   Main App -> Main -> List Box -> Movie List
+
+7. Component Composition
+   ![alt text](image-4.png)
+   ![alt text](image-5.png)
+
+8. Fixing Prop Drilling With Composition (And Building a Layout)
+   Using children {children} prop is the key
