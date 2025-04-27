@@ -29,3 +29,9 @@ April 26, 2025
 
 8. Fixing Prop Drilling With Composition (And Building a Layout)
    Using children {children} prop is the key
+
+April 27, 2025
+
+9. Using Composition to Make a Reusable Box
+10. Passing Elements as Props (Alternative to children) - used in react router
+11. Building a Reusable Star Rating Component
