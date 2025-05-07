@@ -25,7 +25,7 @@ April 26, 2025
 
 7. Component Composition
    ![alt text](/src/screenshot/image-4.png)
-   ![alt text](image-5.png)
+   ![alt text](/src/screenshot/image-5.png)
 
 8. Fixing Prop Drilling With Composition (And Building a Layout)
    Using children {children} prop is the key
@@ -35,3 +35,12 @@ April 27, 2025
 9. Using Composition to Make a Reusable Box
 10. Passing Elements as Props (Alternative to children) - used in react router
 11. Building a Reusable Star Rating Component
+
+May 7, 2025
+
+12. Creating the Stars
+13. Handling Hover Events
+14. Props as a Component API
+    ![alt text](/src/screenshot/image-6.png)
+15. Improving Reusability With Props
+16. Prototype
