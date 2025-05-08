@@ -44,3 +44,9 @@ May 7, 2025
     ![alt text](/src/screenshot/image-6.png)
 15. Improving Reusability With Props
 16. Prototype
+
+May 8, 2025
+
+17. CHALLENGE #1: Text Expander Component
+
+Note: In index.js comment the main App.js & also StarRating components.
